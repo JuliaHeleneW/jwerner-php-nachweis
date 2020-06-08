@@ -6,23 +6,24 @@ if(!isset($_SESSION['username']))//checks whether the admin has logged in
     header("Location:login.php");
     exit;
 }
-$host="localhost";
-$dbname="project";
-$username="web_user";
-$password="s3cr3t";
+$host="eporqep6b4b8ql12.chr7pe7iynqr.eu-west-1.rds.amazonaws.com";
+$dbname="ihn134ea3dzfr2py";
+$username="k4jwjzer9w7qpn4t";
+$password="j1pprhuike445rf7";
 //Verbindung zur Datenbank herstellen (ungültig)
 $dbConn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
 //Errorhandling als Ausnahme/Exception festlegen
 $dbConn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+$album=getAlbumInfo();
 
 //Funktion, um die bestehenden Daten eines Albums zu finden
 function getAlbumInfo()
 {
-  global $conn;
+  global $dbConn;
   $sql = "SELECT * FROM albums WHERE albumId = :albumId";
   $namedParameters = array();
   $namedParameters[":albumId"] = $_GET['albumId'];
-  $stmt = $conn->prepare($sql);
+  $stmt = $dbConn->prepare($sql);
   $stmt->execute($namedParameters);
   $record = $stmt->fetch(PDO::FETCH_ASSOC);
   
@@ -38,7 +39,7 @@ if(isset($_GET['albumId']))
 //Funktion, um die Daten des Albums zu updaten mit User Input, Schutz vor SQL Injection
 function updateAlbum()
 {
-    global $conn;
+    global $dbConn;
     $sql="UPDATE albums 
          SET name= :name,
              description= :description,
@@ -58,7 +59,7 @@ function updateAlbum()
     $namedParameters[":price"]=$_POST['price'];
     $namedParameters[":cover"]=$_POST['cover'];
     $namedParameters[":albumId"] = $_POST['albumId'];
-    $stmt=$conn->prepare($sql);
+    $stmt=$dbConn->prepare($sql);
     $stmt->execute($namedParameters);
 }
 
@@ -92,9 +93,9 @@ function selectBand($aband)
 //Funktion, um die vorhandenen Genres zu bekommen
 function getGenres()
 {
-    global $conn;
+    global $dbConn;
     $sql="SELECT name,genreId FROM genres";
-    $stmt=$conn->prepare($sql);
+    $stmt=$dbConn->prepare($sql);
     $stmt->execute();
     $genres=$stmt->fetchAll(PDO::FETCH_ASSOC);
     foreach($genres as $agenre)
@@ -106,9 +107,9 @@ function getGenres()
 //Funktion, um die vorhandenen Bands zu bekommen
 function getBands()
 {
-    global $conn;
+    global $dbConn;
     $sql="SELECT name,bandId FROM bands";
-    $stmt=$conn->prepare($sql);
+    $stmt=$dbConn->prepare($sql);
     $stmt->execute();
     $bands=$stmt->fetchAll(PDO::FETCH_ASSOC);
     foreach($bands as $band)

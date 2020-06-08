@@ -1,9 +1,9 @@
 <?php
 
-$host="localhost";
-$dbname="project";
-$username="web_user";
-$password="s3cr3t";
+$host="eporqep6b4b8ql12.chr7pe7iynqr.eu-west-1.rds.amazonaws.com";
+$dbname="ihn134ea3dzfr2py";
+$username="k4jwjzer9w7qpn4t";
+$password="j1pprhuike445rf7";
 //Establishing a connection
 $dbConn = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);
 //Setting Errorhandling to Exception
@@ -41,15 +41,15 @@ function displayAlbums()
     if(($_GET['releaseDate'])!="select"){
         if(($_GET['releaseDate'])==1)
         {
-        $sql=$sql." AND releaseDate <  '2000'";
+        $sql=$sql." AND releaseDate <  '2000-01-01'";
         }
         else if(($_GET['releaseDate'])==2)
         {
-        $sql=$sql." AND releaseDate >  '2000' AND releaseDate <  '2010'";
+        $sql=$sql." AND releaseDate >=  '2000-01-01' AND releaseDate <=  '2010-12-31'";
         }
         else if(($_GET['releaseDate'])==3)
         {
-        $sql=$sql." AND releaseDate >  '2010'";
+        $sql=$sql." AND releaseDate >=  '2010-01-01'";
         }
     }
     //Vorbereiten, Ausführen, Daten holen

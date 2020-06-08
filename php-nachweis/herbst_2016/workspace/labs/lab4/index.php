@@ -147,7 +147,7 @@ function displayOrHideForm()
     </style>
     <body>
         <h1>Custom LED Board</h1>
-        <form method="get" action="https://cst352-wern4701.c9users.io/labs/lab4/index.php?displayForm=on">
+        <form method="get" action="index.php?displayForm=on">
             Message: <input type="text" name="message" maxlength="15" value="Hello World"/><br>
             Select a color: <select name="color">
                 <option value="yellow">Yellow</option>
