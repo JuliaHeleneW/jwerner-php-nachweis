@@ -1,0 +1,32 @@
+body
+{
+    font-family:Helvetica;
+    color:#247c43;
+    background-color:#bffbc3;
+    text-align:center;
+    font-size:15px;
+}
+h3
+{
+    color:#2DA958;
+    font-size:20px;
+}
+h1
+{
+    font-size:40px;
+    font-family:Verdana;
+}
+span
+{
+    display:block;
+    color:red;
+}
+table
+{
+    margin:0 auto;
+}
+.error
+{
+    color:red;
+    display:block;
+}

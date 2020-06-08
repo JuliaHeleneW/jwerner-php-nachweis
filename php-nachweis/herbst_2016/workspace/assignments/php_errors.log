@@ -1,0 +1,426 @@
+[20-Sep-2016 04:34:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/assignments/assignment2/assignment2.php on line 13
+[20-Sep-2016 04:35:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/assignments/assignment2/assignment2.php on line 45
+[20-Sep-2016 04:35:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/assignments/assignment2/assignment2.php on line 45
+[20-Sep-2016 04:36:18 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/assignments/assignment2/assignment2.php on line 46
+[20-Sep-2016 05:01:00 UTC] PHP Fatal error:  Call to undefined function displayTable() in /home/ubuntu/workspace/assignments/assignment2/assignment2.php on line 48
+[20-Sep-2016 05:01:00 UTC] PHP Stack trace:
+[20-Sep-2016 05:01:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment2/assignment2.php:0
+[20-Sep-2016 05:12:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/assignments/assignment2/assignment2.php on line 83
+[20-Sep-2016 05:16:06 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/assignments/assignment2/assignment2.php on line 10
+[20-Sep-2016 05:19:05 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/assignments/assignment2/assignment2.php on line 10
+[20-Sep-2016 05:19:09 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/ubuntu/workspace/assignments/assignment2/assignment2.php on line 10
+[20-Sep-2016 05:20:29 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/assignments/assignment2/assignment2.php on line 10
+[20-Sep-2016 05:23:28 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/assignments/assignment2/assignment2.php on line 10
+[20-Sep-2016 06:54:18 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/ubuntu/workspace/assignments/assignment2/assignment2.php on line 43
+[20-Sep-2016 06:54:48 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/assignments/assignment2/assignment2.php on line 62
+[20-Sep-2016 06:55:37 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/assignments/assignment2/assignment2.php on line 70
+[20-Sep-2016 07:11:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/assignments/assignment2/assignment2.php on line 53
+[20-Sep-2016 07:11:02 UTC] PHP Stack trace:
+[20-Sep-2016 07:11:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment2/assignment2.php:0
+[20-Sep-2016 07:11:02 UTC] PHP   2. tableLoop() /home/ubuntu/workspace/assignments/assignment2/assignment2.php:104
+[20-Sep-2016 07:13:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/assignments/assignment2/assignment2.php on line 53
+[20-Sep-2016 07:13:02 UTC] PHP Stack trace:
+[20-Sep-2016 07:13:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment2/assignment2.php:0
+[20-Sep-2016 07:13:02 UTC] PHP   2. tableLoop() /home/ubuntu/workspace/assignments/assignment2/assignment2.php:104
+[20-Sep-2016 07:47:18 UTC] PHP Warning:  Missing argument 1 for move(), called in /home/ubuntu/workspace/assignments/assignment2/output.php on line 52 and defined in /home/ubuntu/workspace/assignments/assignment2/output.php on line 15
+[20-Sep-2016 07:47:18 UTC] PHP Stack trace:
+[20-Sep-2016 07:47:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment2/output.php:0
+[20-Sep-2016 07:47:18 UTC] PHP   2. move() /home/ubuntu/workspace/assignments/assignment2/output.php:52
+[20-Sep-2016 08:50:46 UTC] PHP Fatal error:  Cannot redeclare move() (previously declared in /home/ubuntu/workspace/assignments/assignment2/output.php:9) in /home/ubuntu/workspace/assignments/assignment2/assignment2.php on line 57
+[20-Sep-2016 08:50:46 UTC] PHP Stack trace:
+[20-Sep-2016 08:50:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment2/output.php:0
+[20-Sep-2016 08:55:06 UTC] PHP Fatal error:  Cannot redeclare move() (previously declared in /home/ubuntu/workspace/assignments/assignment2/output.php:9) in /home/ubuntu/workspace/assignments/assignment2/assignment2.php on line 57
+[20-Sep-2016 08:55:06 UTC] PHP Stack trace:
+[20-Sep-2016 08:55:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment2/output.php:0
+[20-Sep-2016 09:02:41 UTC] PHP Warning:  include(ships.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/assignments/assignment2/output.php on line 2
+[20-Sep-2016 09:02:41 UTC] PHP Stack trace:
+[20-Sep-2016 09:02:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment2/output.php:0
+[20-Sep-2016 09:02:41 UTC] PHP Warning:  include(): Failed opening 'ships.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/assignments/assignment2/output.php on line 2
+[20-Sep-2016 09:02:41 UTC] PHP Stack trace:
+[20-Sep-2016 09:02:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment2/output.php:0
+[20-Sep-2016 09:04:23 UTC] PHP Warning:  array_rand() expects parameter 1 to be array, null given in /home/ubuntu/workspace/assignments/assignment2/ships.php on line 2
+[20-Sep-2016 09:04:23 UTC] PHP Stack trace:
+[20-Sep-2016 09:04:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment2/output.php:0
+[20-Sep-2016 09:04:23 UTC] PHP   2. include() /home/ubuntu/workspace/assignments/assignment2/output.php:2
+[20-Sep-2016 09:04:23 UTC] PHP   3. array_rand() /home/ubuntu/workspace/assignments/assignment2/ships.php:2
+[20-Sep-2016 09:13:02 UTC] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION) in /home/ubuntu/workspace/assignments/assignment2/output.php on line 4
+[20-Sep-2016 09:19:36 UTC] PHP Warning:  Missing argument 2 for move(), called in /home/ubuntu/workspace/assignments/assignment2/output.php on line 35 and defined in /home/ubuntu/workspace/assignments/assignment2/output.php on line 4
+[20-Sep-2016 09:19:36 UTC] PHP Stack trace:
+[20-Sep-2016 09:19:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment2/output.php:0
+[20-Sep-2016 09:19:36 UTC] PHP   2. move() /home/ubuntu/workspace/assignments/assignment2/output.php:35
+[20-Sep-2016 09:27:01 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/ubuntu/workspace/assignments/assignment2/output.php on line 9
+[20-Sep-2016 09:27:01 UTC] PHP Stack trace:
+[20-Sep-2016 09:27:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment2/output.php:0
+[20-Sep-2016 09:27:01 UTC] PHP   2. move() /home/ubuntu/workspace/assignments/assignment2/output.php:28
+[20-Sep-2016 09:28:34 UTC] PHP Warning:  Missing argument 2 for move(), called in /home/ubuntu/workspace/assignments/assignment2/output2.php on line 26 and defined in /home/ubuntu/workspace/assignments/assignment2/output2.php on line 4
+[20-Sep-2016 09:28:34 UTC] PHP Stack trace:
+[20-Sep-2016 09:28:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment2/output2.php:0
+[20-Sep-2016 09:28:34 UTC] PHP   2. move() /home/ubuntu/workspace/assignments/assignment2/output2.php:26
+[20-Sep-2016 09:29:52 UTC] PHP Warning:  Missing argument 2 for move(), called in /home/ubuntu/workspace/assignments/assignment2/output3.php on line 26 and defined in /home/ubuntu/workspace/assignments/assignment2/output3.php on line 4
+[20-Sep-2016 09:29:52 UTC] PHP Stack trace:
+[20-Sep-2016 09:29:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment2/output3.php:0
+[20-Sep-2016 09:29:52 UTC] PHP   2. move() /home/ubuntu/workspace/assignments/assignment2/output3.php:26
+[20-Sep-2016 09:30:27 UTC] PHP Warning:  Missing argument 2 for move(), called in /home/ubuntu/workspace/assignments/assignment2/output3.php on line 26 and defined in /home/ubuntu/workspace/assignments/assignment2/output3.php on line 4
+[20-Sep-2016 09:30:27 UTC] PHP Stack trace:
+[20-Sep-2016 09:30:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment2/output3.php:0
+[20-Sep-2016 09:30:27 UTC] PHP   2. move() /home/ubuntu/workspace/assignments/assignment2/output3.php:26
+[20-Sep-2016 09:30:40 UTC] PHP Warning:  Missing argument 2 for move(), called in /home/ubuntu/workspace/assignments/assignment2/output3.php on line 26 and defined in /home/ubuntu/workspace/assignments/assignment2/output3.php on line 4
+[20-Sep-2016 09:30:40 UTC] PHP Stack trace:
+[20-Sep-2016 09:30:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment2/output3.php:0
+[20-Sep-2016 09:30:40 UTC] PHP   2. move() /home/ubuntu/workspace/assignments/assignment2/output3.php:26
+[04-Oct-2016 04:56:51 UTC] PHP Fatal error:  Call to undefined function isFormValid() in /home/ubuntu/workspace/assignments/assignment3/index.php on line 69
+[04-Oct-2016 04:56:51 UTC] PHP Stack trace:
+[04-Oct-2016 04:56:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment3/index.php:0
+[04-Oct-2016 08:25:24 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/assignments/assignment3/index.php on line 109
+[04-Oct-2016 09:31:14 UTC] PHP Parse error:  syntax error, unexpected 'h1' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/assignments/assignment3/index.php on line 84
+[18-Oct-2016 06:09:18 UTC] PHP Fatal error:  Call to undefined function displayFirstnameLessThan5Chars() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 227
+[18-Oct-2016 06:09:18 UTC] PHP Stack trace:
+[18-Oct-2016 06:09:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 06:10:01 UTC] PHP Fatal error:  Call to undefined function displayFirstnameLessThan5Chars() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 227
+[18-Oct-2016 06:10:01 UTC] PHP Stack trace:
+[18-Oct-2016 06:10:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 06:15:15 UTC] PHP Fatal error:  Call to undefined function displayFirstnameLessThan5Chars() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 230
+[18-Oct-2016 06:15:15 UTC] PHP Stack trace:
+[18-Oct-2016 06:15:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 06:15:18 UTC] PHP Fatal error:  Call to undefined function displayFirstnameLessThan5Chars() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 230
+[18-Oct-2016 06:15:18 UTC] PHP Stack trace:
+[18-Oct-2016 06:15:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 06:15:20 UTC] PHP Fatal error:  Call to undefined function displayFirstnameLessThan5Chars() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 230
+[18-Oct-2016 06:15:20 UTC] PHP Stack trace:
+[18-Oct-2016 06:15:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 15:54:08 UTC] PHP Fatal error:  Call to undefined function displayFirstnameLessThan5Chars() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 231
+[18-Oct-2016 15:54:08 UTC] PHP Stack trace:
+[18-Oct-2016 15:54:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 16:00:44 UTC] PHP Fatal error:  Call to undefined function displayFirstnameLessThan5Chars() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 231
+[18-Oct-2016 16:00:44 UTC] PHP Stack trace:
+[18-Oct-2016 16:00:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 16:21:45 UTC] PHP Fatal error:  Call to undefined function displayFirstnameLessThan5Chars() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 231
+[18-Oct-2016 16:21:45 UTC] PHP Stack trace:
+[18-Oct-2016 16:21:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 17:53:46 UTC] PHP Fatal error:  Call to undefined function displayCategoryQuote() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 284
+[18-Oct-2016 17:53:46 UTC] PHP Stack trace:
+[18-Oct-2016 17:53:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 17:55:16 UTC] PHP Fatal error:  Call to undefined function displayCategoryQuote() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 283
+[18-Oct-2016 17:55:16 UTC] PHP Stack trace:
+[18-Oct-2016 17:55:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:01:43 UTC] PHP Fatal error:  Call to undefined function displayCategoryQuote() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 295
+[18-Oct-2016 18:01:43 UTC] PHP Stack trace:
+[18-Oct-2016 18:01:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:06:12 UTC] PHP Fatal error:  Call to undefined function displayCategoryQuote() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 295
+[18-Oct-2016 18:06:12 UTC] PHP Stack trace:
+[18-Oct-2016 18:06:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:06:58 UTC] PHP Fatal error:  Call to undefined function displayCategoryQuote() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 296
+[18-Oct-2016 18:06:58 UTC] PHP Stack trace:
+[18-Oct-2016 18:06:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:08:52 UTC] PHP Fatal error:  Call to undefined function displayCategoryQuote() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 303
+[18-Oct-2016 18:08:52 UTC] PHP Stack trace:
+[18-Oct-2016 18:08:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:11:00 UTC] PHP Fatal error:  Call to undefined function displayCategoryQuote() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 303
+[18-Oct-2016 18:11:00 UTC] PHP Stack trace:
+[18-Oct-2016 18:11:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:11:56 UTC] PHP Fatal error:  Call to undefined function displayCategoryQuote() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 301
+[18-Oct-2016 18:11:56 UTC] PHP Stack trace:
+[18-Oct-2016 18:11:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:13:55 UTC] PHP Fatal error:  Call to undefined function displayCategoryQuote() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 301
+[18-Oct-2016 18:13:55 UTC] PHP Stack trace:
+[18-Oct-2016 18:13:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:17:24 UTC] PHP Fatal error:  Call to undefined function displayCategoryQuote() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 329
+[18-Oct-2016 18:17:24 UTC] PHP Stack trace:
+[18-Oct-2016 18:17:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:19:52 UTC] PHP Fatal error:  Call to undefined function displayCategoryQuote() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 327
+[18-Oct-2016 18:19:52 UTC] PHP Stack trace:
+[18-Oct-2016 18:19:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:20:45 UTC] PHP Fatal error:  Call to undefined function displayCategoryQuote() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 326
+[18-Oct-2016 18:20:45 UTC] PHP Stack trace:
+[18-Oct-2016 18:20:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:23:37 UTC] PHP Fatal error:  Call to undefined function displayCategoryQuote() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 338
+[18-Oct-2016 18:23:37 UTC] PHP Stack trace:
+[18-Oct-2016 18:23:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:27:27 UTC] PHP Warning:  Illegal string offset 'firstName' in /home/ubuntu/workspace/assignments/assignment4/index.php on line 159
+[18-Oct-2016 18:27:27 UTC] PHP Stack trace:
+[18-Oct-2016 18:27:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:27:27 UTC] PHP   2. displayQuotesByFemaleAuthors() /home/ubuntu/workspace/assignments/assignment4/index.php:327
+[18-Oct-2016 18:27:27 UTC] PHP Warning:  Illegal string offset 'lastName' in /home/ubuntu/workspace/assignments/assignment4/index.php on line 160
+[18-Oct-2016 18:27:27 UTC] PHP Stack trace:
+[18-Oct-2016 18:27:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:27:27 UTC] PHP   2. displayQuotesByFemaleAuthors() /home/ubuntu/workspace/assignments/assignment4/index.php:327
+[18-Oct-2016 18:27:27 UTC] PHP Warning:  Illegal string offset 'quote' in /home/ubuntu/workspace/assignments/assignment4/index.php on line 161
+[18-Oct-2016 18:27:27 UTC] PHP Stack trace:
+[18-Oct-2016 18:27:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:27:27 UTC] PHP   2. displayQuotesByFemaleAuthors() /home/ubuntu/workspace/assignments/assignment4/index.php:327
+[18-Oct-2016 18:27:27 UTC] PHP Warning:  Illegal string offset 'firstName' in /home/ubuntu/workspace/assignments/assignment4/index.php on line 159
+[18-Oct-2016 18:27:27 UTC] PHP Stack trace:
+[18-Oct-2016 18:27:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:27:27 UTC] PHP   2. displayQuotesByFemaleAuthors() /home/ubuntu/workspace/assignments/assignment4/index.php:327
+[18-Oct-2016 18:27:27 UTC] PHP Warning:  Illegal string offset 'lastName' in /home/ubuntu/workspace/assignments/assignment4/index.php on line 160
+[18-Oct-2016 18:27:27 UTC] PHP Stack trace:
+[18-Oct-2016 18:27:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:27:27 UTC] PHP   2. displayQuotesByFemaleAuthors() /home/ubuntu/workspace/assignments/assignment4/index.php:327
+[18-Oct-2016 18:27:27 UTC] PHP Warning:  Illegal string offset 'quote' in /home/ubuntu/workspace/assignments/assignment4/index.php on line 161
+[18-Oct-2016 18:27:27 UTC] PHP Stack trace:
+[18-Oct-2016 18:27:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:27:27 UTC] PHP   2. displayQuotesByFemaleAuthors() /home/ubuntu/workspace/assignments/assignment4/index.php:327
+[18-Oct-2016 18:27:27 UTC] PHP Warning:  Illegal string offset 'firstName' in /home/ubuntu/workspace/assignments/assignment4/index.php on line 159
+[18-Oct-2016 18:27:27 UTC] PHP Stack trace:
+[18-Oct-2016 18:27:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:27:27 UTC] PHP   2. displayQuotesByFemaleAuthors() /home/ubuntu/workspace/assignments/assignment4/index.php:327
+[18-Oct-2016 18:27:27 UTC] PHP Warning:  Illegal string offset 'lastName' in /home/ubuntu/workspace/assignments/assignment4/index.php on line 160
+[18-Oct-2016 18:27:27 UTC] PHP Stack trace:
+[18-Oct-2016 18:27:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:27:27 UTC] PHP   2. displayQuotesByFemaleAuthors() /home/ubuntu/workspace/assignments/assignment4/index.php:327
+[18-Oct-2016 18:27:27 UTC] PHP Warning:  Illegal string offset 'quote' in /home/ubuntu/workspace/assignments/assignment4/index.php on line 161
+[18-Oct-2016 18:27:27 UTC] PHP Stack trace:
+[18-Oct-2016 18:27:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:27:27 UTC] PHP   2. displayQuotesByFemaleAuthors() /home/ubuntu/workspace/assignments/assignment4/index.php:327
+[18-Oct-2016 18:27:27 UTC] PHP Fatal error:  Call to undefined function displayCategoryQuote() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 348
+[18-Oct-2016 18:27:27 UTC] PHP Stack trace:
+[18-Oct-2016 18:27:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:28:27 UTC] PHP Fatal error:  Call to undefined function displayCategoryQuote() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 348
+[18-Oct-2016 18:28:27 UTC] PHP Stack trace:
+[18-Oct-2016 18:28:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:29:50 UTC] PHP Fatal error:  Call to undefined function displayCategoryQuote() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 356
+[18-Oct-2016 18:29:50 UTC] PHP Stack trace:
+[18-Oct-2016 18:29:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:31:59 UTC] PHP Fatal error:  Call to undefined function displayCategoryQuote() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 356
+[18-Oct-2016 18:31:59 UTC] PHP Stack trace:
+[18-Oct-2016 18:31:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:37:09 UTC] PHP Fatal error:  Call to undefined function displayCategoryQuote() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 369
+[18-Oct-2016 18:37:09 UTC] PHP Stack trace:
+[18-Oct-2016 18:37:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:44:04 UTC] PHP Fatal error:  Call to undefined function displayCategoryQuote() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 381
+[18-Oct-2016 18:44:04 UTC] PHP Stack trace:
+[18-Oct-2016 18:44:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:44:50 UTC] PHP Fatal error:  Call to undefined function displayCategoryQuote() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 381
+[18-Oct-2016 18:44:50 UTC] PHP Stack trace:
+[18-Oct-2016 18:44:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:44:53 UTC] PHP Fatal error:  Call to undefined function displayCategoryQuote() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 381
+[18-Oct-2016 18:44:53 UTC] PHP Stack trace:
+[18-Oct-2016 18:44:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:45:33 UTC] PHP Fatal error:  Call to undefined function displayCategoryQuote() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 381
+[18-Oct-2016 18:45:33 UTC] PHP Stack trace:
+[18-Oct-2016 18:45:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:45:44 UTC] PHP Fatal error:  Call to undefined function displayCategoryAuthor() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 385
+[18-Oct-2016 18:45:44 UTC] PHP Stack trace:
+[18-Oct-2016 18:45:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 18:46:07 UTC] PHP Fatal error:  Call to undefined function displayCategoryAuthor() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 385
+[18-Oct-2016 18:46:07 UTC] PHP Stack trace:
+[18-Oct-2016 18:46:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 22:51:03 UTC] PHP Fatal error:  Call to undefined function displayCategoryAuthor() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 386
+[18-Oct-2016 22:51:03 UTC] PHP Stack trace:
+[18-Oct-2016 22:51:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 22:53:40 UTC] PHP Fatal error:  Call to undefined function displayCategoryAuthor() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 390
+[18-Oct-2016 22:53:40 UTC] PHP Stack trace:
+[18-Oct-2016 22:53:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 22:56:01 UTC] PHP Fatal error:  Call to undefined function displayCategoryAuthor() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 393
+[18-Oct-2016 22:56:01 UTC] PHP Stack trace:
+[18-Oct-2016 22:56:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[18-Oct-2016 22:56:26 UTC] PHP Fatal error:  Call to undefined function displayCategoryAuthor() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 393
+[18-Oct-2016 22:56:26 UTC] PHP Stack trace:
+[18-Oct-2016 22:56:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[20-Oct-2016 17:27:29 UTC] PHP Fatal error:  Call to undefined function displayCategoryAuthor() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 393
+[20-Oct-2016 17:27:29 UTC] PHP Stack trace:
+[20-Oct-2016 17:27:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[22-Oct-2016 21:57:51 UTC] PHP Fatal error:  Call to undefined function displayCategoryAuthor() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 393
+[22-Oct-2016 21:57:51 UTC] PHP Stack trace:
+[22-Oct-2016 21:57:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[25-Oct-2016 18:57:08 UTC] PHP Fatal error:  Call to undefined function displayCategoryAuthor() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 393
+[25-Oct-2016 18:57:08 UTC] PHP Stack trace:
+[25-Oct-2016 18:57:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[25-Oct-2016 18:59:51 UTC] PHP Fatal error:  Call to undefined function displayCategoryAuthor() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 391
+[25-Oct-2016 18:59:51 UTC] PHP Stack trace:
+[25-Oct-2016 18:59:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[25-Oct-2016 19:01:30 UTC] PHP Fatal error:  Call to undefined function displayCategoryAuthor() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 391
+[25-Oct-2016 19:01:30 UTC] PHP Stack trace:
+[25-Oct-2016 19:01:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[25-Oct-2016 19:23:27 UTC] PHP Fatal error:  Call to undefined function displayCategoryAuthor() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 389
+[25-Oct-2016 19:23:27 UTC] PHP Stack trace:
+[25-Oct-2016 19:23:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[27-Oct-2016 18:15:45 UTC] PHP Fatal error:  Call to undefined function displayCategoryAuthor() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 389
+[27-Oct-2016 18:15:45 UTC] PHP Stack trace:
+[27-Oct-2016 18:15:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[29-Nov-2016 04:42:33 UTC] PHP Fatal error:  Call to undefined function displayCategoryAuthor() in /home/ubuntu/workspace/assignments/assignment4/index.php on line 389
+[29-Nov-2016 04:42:33 UTC] PHP Stack trace:
+[29-Nov-2016 04:42:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment4/index.php:0
+[29-Nov-2016 09:05:49 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'username' in where clause is ambiguous' in /home/ubuntu/workspace/assignments/assignment5/getData.php:12
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/getData.php(12): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/getData.php on line 12
+[29-Nov-2016 09:05:53 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'username' in where clause is ambiguous' in /home/ubuntu/workspace/assignments/assignment5/getData.php:12
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/getData.php(12): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/getData.php on line 12
+[29-Nov-2016 09:07:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'username' in where clause is ambiguous' in /home/ubuntu/workspace/assignments/assignment5/getData.php:12
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/getData.php(12): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/getData.php on line 12
+[29-Nov-2016 09:08:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'username' in where clause is ambiguous' in /home/ubuntu/workspace/assignments/assignment5/getData.php:12
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/getData.php(12): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/getData.php on line 12
+[29-Nov-2016 09:10:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'username' in where clause is ambiguous' in /home/ubuntu/workspace/assignments/assignment5/getData.php:12
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/getData.php(12): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/getData.php on line 12
+[29-Nov-2016 09:11:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'username' in where clause is ambiguous' in /home/ubuntu/workspace/assignments/assignment5/getData.php:12
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/getData.php(12): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/getData.php on line 12
+[29-Nov-2016 09:12:14 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'username' in where clause is ambiguous' in /home/ubuntu/workspace/assignments/assignment5/getData.php:12
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/getData.php(12): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/getData.php on line 12
+[29-Nov-2016 09:13:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'username' in where clause is ambiguous' in /home/ubuntu/workspace/assignments/assignment5/getData.php:12
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/getData.php(12): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/getData.php on line 12
+[29-Nov-2016 09:13:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'username' in where clause is ambiguous' in /home/ubuntu/workspace/assignments/assignment5/getData.php:12
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/getData.php(12): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/getData.php on line 12
+[29-Nov-2016 09:14:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'username' in where clause is ambiguous' in /home/ubuntu/workspace/assignments/assignment5/getData.php:12
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/getData.php(12): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/getData.php on line 12
+[29-Nov-2016 09:14:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'username' in where clause is ambiguous' in /home/ubuntu/workspace/assignments/assignment5/getData.php:12
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/getData.php(12): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/getData.php on line 12
+[29-Nov-2016 09:16:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null' in /home/ubuntu/workspace/assignments/assignment5/insertData.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/insertData.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/insertData.php on line 16
+[29-Nov-2016 09:18:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null' in /home/ubuntu/workspace/assignments/assignment5/insertData.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/insertData.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/insertData.php on line 16
+[29-Nov-2016 16:45:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null' in /home/ubuntu/workspace/assignments/assignment5/insertData.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/insertData.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/insertData.php on line 16
+[29-Nov-2016 16:48:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null' in /home/ubuntu/workspace/assignments/assignment5/insertData.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/insertData.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/insertData.php on line 16
+[29-Nov-2016 16:49:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null' in /home/ubuntu/workspace/assignments/assignment5/insertData.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/insertData.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/insertData.php on line 16
+[29-Nov-2016 16:51:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null' in /home/ubuntu/workspace/assignments/assignment5/insertData.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/insertData.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/insertData.php on line 16
+[29-Nov-2016 16:51:28 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null' in /home/ubuntu/workspace/assignments/assignment5/insertData.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/insertData.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/insertData.php on line 16
+[29-Nov-2016 17:09:41 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null' in /home/ubuntu/workspace/assignments/assignment5/insertData.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/insertData.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/insertData.php on line 16
+[29-Nov-2016 17:11:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null' in /home/ubuntu/workspace/assignments/assignment5/insertData.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/insertData.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/insertData.php on line 16
+[29-Nov-2016 17:11:45 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null' in /home/ubuntu/workspace/assignments/assignment5/insertData.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/insertData.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/insertData.php on line 16
+[29-Nov-2016 17:19:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null' in /home/ubuntu/workspace/assignments/assignment5/insertData.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/insertData.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/insertData.php on line 16
+[29-Nov-2016 17:25:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null' in /home/ubuntu/workspace/assignments/assignment5/insertData.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/insertData.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/insertData.php on line 16
+[29-Nov-2016 17:27:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null' in /home/ubuntu/workspace/assignments/assignment5/insertData.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/insertData.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/insertData.php on line 16
+[29-Nov-2016 17:29:11 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null' in /home/ubuntu/workspace/assignments/assignment5/insertData.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/insertData.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/insertData.php on line 16
+[29-Nov-2016 17:29:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null' in /home/ubuntu/workspace/assignments/assignment5/insertData.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/insertData.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/insertData.php on line 16
+[29-Nov-2016 17:30:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null' in /home/ubuntu/workspace/assignments/assignment5/insertData.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/insertData.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/insertData.php on line 16
+[29-Nov-2016 17:30:11 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null' in /home/ubuntu/workspace/assignments/assignment5/insertData.php:16
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/insertData.php(16): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/insertData.php on line 16
+[29-Nov-2016 17:31:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'score' cannot be null' in /home/ubuntu/workspace/assignments/assignment5/insertData.php:18
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/insertData.php(18): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/insertData.php on line 18
+[29-Nov-2016 17:32:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000]: General error' in /home/ubuntu/workspace/assignments/assignment5/insertData.php:19
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/insertData.php(19): PDOStatement->fetch(2)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/insertData.php on line 19
+[29-Nov-2016 17:35:14 UTC] PHP Fatal error:  Call to undefined function now() in /home/ubuntu/workspace/assignments/assignment5/insertData.php on line 16
+[29-Nov-2016 17:35:14 UTC] PHP Stack trace:
+[29-Nov-2016 17:35:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/assignments/assignment5/insertData.php:0
+[29-Nov-2016 21:14:19 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null' in /home/ubuntu/workspace/assignments/assignment5/insertData.php:18
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/insertData.php(18): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/insertData.php on line 18
+[29-Nov-2016 21:14:41 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null' in /home/ubuntu/workspace/assignments/assignment5/insertData.php:18
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/insertData.php(18): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/insertData.php on line 18
+[29-Nov-2016 21:14:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null' in /home/ubuntu/workspace/assignments/assignment5/insertData.php:18
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/insertData.php(18): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/insertData.php on line 18
+[29-Nov-2016 21:15:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null' in /home/ubuntu/workspace/assignments/assignment5/insertData.php:18
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/insertData.php(18): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/insertData.php on line 18
+[29-Nov-2016 22:52:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null' in /home/ubuntu/workspace/assignments/assignment5/insertData.php:18
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/insertData.php(18): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/insertData.php on line 18
+[29-Nov-2016 22:53:09 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'username' cannot be null' in /home/ubuntu/workspace/assignments/assignment5/insertData.php:18
+Stack trace:
+#0 /home/ubuntu/workspace/assignments/assignment5/insertData.php(18): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/assignments/assignment5/insertData.php on line 18

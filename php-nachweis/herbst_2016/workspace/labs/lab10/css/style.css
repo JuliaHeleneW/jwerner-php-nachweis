@@ -1,0 +1,25 @@
+span
+{
+    text-align:center;
+    margin:0 auto;
+    color:red;
+    font-family:Verdana;
+    font-size:15px;
+}
+body
+{
+    background-color:blue;
+    color:black;
+    font-family:Helvetica;
+    font-size:20px;
+}
+.img-thumbnail
+{
+    width:120px;
+    height:100px;
+}
+#filechooser
+{
+    margin:0 auto;
+    text-align:center;
+}

@@ -1,0 +1,16 @@
+body {
+    width:100%;
+    text-align: center;
+    background-color:white;
+}
+
+table {
+    margin:0 auto;
+    display: inline-block;
+}
+
+td {
+    height: 20px;
+    width: 20px;
+}
+#link{font-size:15px;font-family:'Comic Sans MS';color:red;}

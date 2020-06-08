@@ -1,0 +1,1298 @@
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:17:00 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:17:00 UTC] PHP Stack trace:
+[18-Oct-2016 19:17:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:17:00 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:17:00 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:19:59 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:19:59 UTC] PHP Stack trace:
+[18-Oct-2016 19:19:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:19:59 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:19:59 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:20:01 UTC] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 9
+[18-Oct-2016 19:20:01 UTC] PHP Stack trace:
+[18-Oct-2016 19:20:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:20:01 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:26
+[18-Oct-2016 19:20:01 UTC] PHP   3. rand() /home/ubuntu/workspace/midterm/practice/practice_program1.php:9
+[18-Oct-2016 19:26:29 UTC] PHP Fatal error:  Call to undefined function letterToFind() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 38
+[18-Oct-2016 19:26:29 UTC] PHP Stack trace:
+[18-Oct-2016 19:26:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:33:52 UTC] PHP Fatal error:  Call to undefined function letterToOmit() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 45
+[18-Oct-2016 19:33:52 UTC] PHP Stack trace:
+[18-Oct-2016 19:33:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[18-Oct-2016 19:36:07 UTC] PHP Warning:  Wrong parameter count for chr() in /home/ubuntu/workspace/midterm/practice/practice_program1.php on line 27
+[18-Oct-2016 19:36:07 UTC] PHP Stack trace:
+[18-Oct-2016 19:36:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program1.php:0
+[18-Oct-2016 19:36:07 UTC] PHP   2. displayTable() /home/ubuntu/workspace/midterm/practice/practice_program1.php:58
+[18-Oct-2016 19:36:07 UTC] PHP   3. chr() /home/ubuntu/workspace/midterm/practice/practice_program1.php:27
+[20-Oct-2016 17:35:34 UTC] PHP Warning:  Illegal string offset 'town_name' in /home/ubuntu/workspace/midterm/practice/practice_program2.php on line 27
+[20-Oct-2016 17:35:34 UTC] PHP Stack trace:
+[20-Oct-2016 17:35:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program2.php:0
+[20-Oct-2016 17:35:34 UTC] PHP   2. population50To80K() /home/ubuntu/workspace/midterm/practice/practice_program2.php:39
+[20-Oct-2016 17:35:34 UTC] PHP Warning:  Illegal string offset 'population' in /home/ubuntu/workspace/midterm/practice/practice_program2.php on line 27
+[20-Oct-2016 17:35:34 UTC] PHP Stack trace:
+[20-Oct-2016 17:35:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program2.php:0
+[20-Oct-2016 17:35:34 UTC] PHP   2. population50To80K() /home/ubuntu/workspace/midterm/practice/practice_program2.php:39
+[20-Oct-2016 17:35:34 UTC] PHP Warning:  Illegal string offset 'town_name' in /home/ubuntu/workspace/midterm/practice/practice_program2.php on line 27
+[20-Oct-2016 17:35:34 UTC] PHP Stack trace:
+[20-Oct-2016 17:35:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program2.php:0
+[20-Oct-2016 17:35:34 UTC] PHP   2. population50To80K() /home/ubuntu/workspace/midterm/practice/practice_program2.php:39
+[20-Oct-2016 17:35:34 UTC] PHP Warning:  Illegal string offset 'population' in /home/ubuntu/workspace/midterm/practice/practice_program2.php on line 27
+[20-Oct-2016 17:35:34 UTC] PHP Stack trace:
+[20-Oct-2016 17:35:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program2.php:0
+[20-Oct-2016 17:35:34 UTC] PHP   2. population50To80K() /home/ubuntu/workspace/midterm/practice/practice_program2.php:39
+[20-Oct-2016 17:35:34 UTC] PHP Warning:  Illegal string offset 'town_name' in /home/ubuntu/workspace/midterm/practice/practice_program2.php on line 27
+[20-Oct-2016 17:35:34 UTC] PHP Stack trace:
+[20-Oct-2016 17:35:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program2.php:0
+[20-Oct-2016 17:35:34 UTC] PHP   2. population50To80K() /home/ubuntu/workspace/midterm/practice/practice_program2.php:39
+[20-Oct-2016 17:35:34 UTC] PHP Warning:  Illegal string offset 'population' in /home/ubuntu/workspace/midterm/practice/practice_program2.php on line 27
+[20-Oct-2016 17:35:34 UTC] PHP Stack trace:
+[20-Oct-2016 17:35:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program2.php:0
+[20-Oct-2016 17:35:34 UTC] PHP   2. population50To80K() /home/ubuntu/workspace/midterm/practice/practice_program2.php:39
+[20-Oct-2016 17:35:34 UTC] PHP Warning:  Illegal string offset 'town_name' in /home/ubuntu/workspace/midterm/practice/practice_program2.php on line 27
+[20-Oct-2016 17:35:34 UTC] PHP Stack trace:
+[20-Oct-2016 17:35:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program2.php:0
+[20-Oct-2016 17:35:34 UTC] PHP   2. population50To80K() /home/ubuntu/workspace/midterm/practice/practice_program2.php:39
+[20-Oct-2016 17:35:34 UTC] PHP Warning:  Illegal string offset 'population' in /home/ubuntu/workspace/midterm/practice/practice_program2.php on line 27
+[20-Oct-2016 17:35:34 UTC] PHP Stack trace:
+[20-Oct-2016 17:35:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/midterm/practice/practice_program2.php:0
+[20-Oct-2016 17:35:34 UTC] PHP   2. population50To80K() /home/ubuntu/workspace/midterm/practice/practice_program2.php:39

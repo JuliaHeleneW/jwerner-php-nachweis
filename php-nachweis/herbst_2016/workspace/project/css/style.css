@@ -1,0 +1,17 @@
+body
+{
+    height:100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background:url("../img/music4.jpg")fixed;
+    background-size:100%;
+    color:white;
+    font-family:Helvetica;
+    margin-left:50%;
+    font-size:20px;
+}
+.myImg
+{
+    width:500px;
+    height:500px;
+}
